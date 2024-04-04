@@ -1,0 +1,113 @@
+Step 1: -
+
+Cheak Nodejs is installed?
+
+After installation , open cmd command prompt.
+
+Type: node -v
+
+And Hit Enter..
+
+Type: npm -v
+
+And Hit Enter..
+
+Cheak Truffle is already installed or not?
+
+truffle version
+
+
+
+Step 2: -
+
+
+If not, then let's install it..
+
+Type: npm install -g truffle
+
+This will install truffle for all local machine ENV.
+
+Then you need to make a folder any name..for this..
+
+Type: dir
+
+And Hit Enter..
+
+Type: cd Desktop
+
+And Hit Enter..
+
+This will select desktop location..
+
+Type: mkdir folder name
+
+And Hit Enter..
+
+This will create a folder on desktop..
+
+Type: cd folder name
+
+And Hit Enter..
+
+Type: truffle init
+
+And Hit Enter..
+
+Truffle will unpack necessary folders and files...
+
+Or 
+
+You can simply install it for one folder..
+
+first you need to make a folder any name..
+
+Type: dir
+
+And Hit Enter..
+
+Type: cd Desktop
+
+This will select desktop location..
+
+And Hit Enter..
+
+Type: mkdir folder name
+
+And Hit Enter..
+
+This will create a folder on desktop..
+
+Type: cd folder name
+
+And Hit Enter..
+
+Type: npm install truffle
+
+This will install truffle for this folder only.
+
+Type: truffle init
+
+And Hit Enter..
+
+Truffle will unpack necessary folders and files...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
