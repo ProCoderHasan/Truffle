@@ -1,0 +1,47 @@
+Truffle commands: type in cmd panel ....
+
+
+Create new contracts....
+
+Type : truffle create contract fileName
+
+
+Create new migrations...
+
+Type: truffle create migration fileName
+
+You need to add additional data in migration file. so that it can work.
+
+
+Compile contracts...
+
+Type: truffle compile
+
+
+Test contracts....
+
+Type: truffle test
+
+
+Deploy contracts
+
+Type: truffle deploy
+
+or 
+
+Type: truffle migrate
+
+
+Deploy single contract
+
+Type: truffle migrate -f 2
+
+or
+
+Type: truffle deploy -f 2
+
+here 2 is the contracts migration number.
+
+
+
+
