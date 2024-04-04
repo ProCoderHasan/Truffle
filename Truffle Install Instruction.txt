@@ -1,6 +1,7 @@
 Step 1: -
+Download nodejs: https://nodejs.org/en/download
 
-Cheak Nodejs is installed?
+Then install it.
 
 After installation , open cmd command prompt.
 
